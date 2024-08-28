@@ -1,0 +1,8 @@
+- put the api folder in app folder in src directory.
+
+- put the send.svg in public folder
+
+- add you open api key in .env.local file as below -- 
+
+
+OPEN_AI_API_KEY = ENTER YOUR KEY
